@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Girish Kapoor 👋
 
-<!--
-**kapoorgirish/kapoorgirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 M.Tech (Computer Science)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Director, Programming Express Private Limited
+
+👨‍🏫 Senior IT Trainer with 20+ Years Experience
+
+📍 Ajmer, Rajasthan, India
+
+## Expertise
+
+- C Programming
+- C++
+- Data Structure
+- Java
+- Advanced Java
+- Python
+- Salesforce Admin
+- Salesforce Developer
+- Web Development
+- Generative AI
+
+## Currently Working On
+
+- AI Training Programs
+- Salesforce Development
+- Full Stack Web Development
+- Student Internship Programs
+
+## Training Programs
+
+- Python Development
+- Java Development
+- Salesforce Admin
+- Salesforce Developer
+- Web Development
+- AI & Generative AI
+
+## Connect With Me
+
+🌐 Website: https://programmingexpress.in
+
+📧 Email: girishk@programmingexpress.in
+
+📱 Phone: +91 9829152312
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
